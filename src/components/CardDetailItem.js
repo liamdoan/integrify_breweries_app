@@ -109,7 +109,7 @@ const CardDetailItem = ({infoBrews}) => {
                         <County>{infoBrew.county_province}</County>
                         <PostalCode>{infoBrew.postal_code}</PostalCode>
                     </Content>
-                    <Button to = "/integrify_breweries_app">Back to homepage</Button>
+                    <Button to = "/">Back to homepage</Button>
                 </CardDetailContainer>
             ))}
         </>
