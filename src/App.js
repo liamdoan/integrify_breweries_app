@@ -20,7 +20,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/" element={<Home infoBrews={infoBrews}/>}/>
+        <Route exact path="/integrify_breweries_app" element={<Home infoBrews={infoBrews}/>}/>
         <Route path="/:brewId" element={<Detail infoBrews={infoBrews}/>}/>
       </Routes>
     </Router>
