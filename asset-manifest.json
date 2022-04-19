@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/integrify_breweries_app/static/css/main.c7ec3132.css",
-    "main.js": "/integrify_breweries_app/static/js/main.12557ddd.js",
+    "main.js": "/integrify_breweries_app/static/js/main.d72baf05.js",
     "index.html": "/integrify_breweries_app/index.html",
     "main.c7ec3132.css.map": "/integrify_breweries_app/static/css/main.c7ec3132.css.map",
-    "main.12557ddd.js.map": "/integrify_breweries_app/static/js/main.12557ddd.js.map"
+    "main.d72baf05.js.map": "/integrify_breweries_app/static/js/main.d72baf05.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.12557ddd.js"
+    "static/js/main.d72baf05.js"
   ]
 }
