@@ -21,7 +21,7 @@ function App() {
     <Router>
       <Routes>
         <Route exact path="/integrify_breweries_app" element={<Home infoBrews={infoBrews}/>}/>
-        <Route path="/:brewId" element={<Detail infoBrews={infoBrews}/>}/>
+        <Route path="/integrify_breweries_app/:brewId" element={<Detail infoBrews={infoBrews}/>}/>
       </Routes>
     </Router>
   );
